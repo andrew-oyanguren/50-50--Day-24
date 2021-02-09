@@ -1,2 +1,7 @@
 # 50-50--Day-24
-GitHub API Project
+GitHub Search API
+
+## Table Of Contents
+* General Information
+* Takeaways
+* Technologies Used
